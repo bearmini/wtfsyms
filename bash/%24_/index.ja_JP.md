@@ -7,6 +7,13 @@
 
 # 用例
 
+コマンドラインでの使用例
+
+    $ mkdir very_long_directory_name && cd $_
+
+
+スクリプトでの使用例
+
     $ cat example.sh
     #!/bin/bash
 
@@ -17,7 +24,7 @@
     echo -e "$_";  # 直前に実行したコマンド(find) の最後の引数である foo が表示されます。
 
 
-実行例
+このスクリプトの実行例
 
     $ ./example.sh
     ./example.sh
