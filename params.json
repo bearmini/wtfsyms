@@ -1,0 +1,1 @@
+{"name":"WTF symbols","tagline":"Provides a cloud-based knowledge base against for 'WTF is this symbol!?'","body":"test if we can use input and select tags:\r\n<p>WTF is <span><input/>in <select><option>bash</option></select></span> !?</p>\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
