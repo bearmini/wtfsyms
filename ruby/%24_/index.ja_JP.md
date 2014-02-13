@@ -3,7 +3,7 @@ title: ruby - $\_
 layout: entry
 ---
 
-# $_
+# $\_
 
 ## 意味
 
