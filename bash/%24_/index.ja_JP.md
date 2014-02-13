@@ -1,5 +1,5 @@
 ---
-title - bash - $\_
+title: bash - $\_
 layout: entry
 ---
 
