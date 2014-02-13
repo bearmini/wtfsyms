@@ -1,3 +1,8 @@
+---
+title: ruby - $-0
+layout: entry
+---
+
 # $-0
 
 ## 意味
