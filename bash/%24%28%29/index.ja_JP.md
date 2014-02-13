@@ -1,3 +1,8 @@
+---
+title: bash - $(command)
+layout: entry
+---
+
 # $(command)
 
 ## 意味

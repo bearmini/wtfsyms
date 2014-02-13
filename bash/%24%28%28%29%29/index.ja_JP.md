@@ -1,3 +1,8 @@
+---
+title: bash - $((expression))
+layout: entry
+---
+
 # $((expression))
 
 ## 意味

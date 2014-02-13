@@ -1,3 +1,8 @@
+---
+title: bash - :
+layout: entry
+---
+
 # コロン (:)
 
 # 意味

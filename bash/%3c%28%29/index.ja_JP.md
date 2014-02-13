@@ -1,3 +1,8 @@
+---
+title: bash - <(list)
+layout: entry
+---
+
 # <(list)  プロセス置換
 
 ## 意味

@@ -1,3 +1,8 @@
+---
+title - bash - $\_
+layout: entry
+---
+
 # $_
 
 ## 意味
