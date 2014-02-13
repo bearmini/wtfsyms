@@ -3,7 +3,7 @@ title: bash - $\_
 layout: entry
 ---
 
-# $_
+# $\_
 
 ## 意味
 
